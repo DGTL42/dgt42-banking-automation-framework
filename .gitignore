@@ -1,0 +1,21 @@
+# Node dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Playwright test output
+playwright-report/
+test-results/
+
+# Environment variables
+.env
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# Optional IDE-specific (if using VS Code)
+.vscode/
