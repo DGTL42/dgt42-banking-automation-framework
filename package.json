@@ -1,0 +1,23 @@
+{
+  "name": "banking-automation-framework",
+  "version": "1.0.0",
+  "description": "Open-source test automation framework for banking apps – UI & API testing with Playwright, data-driven execution, Xray-ready.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "keywords": [
+    "playwright",
+    "test-automation",
+    "ui-testing",
+    "api-testing",
+    "banking",
+    "javascript",
+    "data-driven-testing",
+    "page-object-model",
+    "xray-integration",
+    "open-source"
+  ],
+  "author": "Robert Kaiser, robert.kaiser@dgtl42.com",
+  "license": "MIT"
+}
