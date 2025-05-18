@@ -56,4 +56,4 @@ The idea for this project was sparked by insights gained at **Swiss Testing Day*
 
 ---
 
-**Stay tunedâ¦ and feel free to contribute!**
+**Stay tuned and feel free to contribute!**
